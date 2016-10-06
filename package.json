@@ -1,0 +1,13 @@
+{
+  "name": "func-middleware",
+  "version": "0.0.1",
+  "description": "A library to make executing middleware and handling errors easier for Node.js based Azure Functions.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "christopheranderon",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
